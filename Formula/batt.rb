@@ -1,8 +1,8 @@
 class Batt < Formula
   desc "Displays the battery percentage level"
   homepage "https://github.com/babasbot/batt"
-  url "https://github.com/babasbot/batt/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "f7477aeec6ee4e5dc33218ef931e8cbab7283b12b61aea9f5854afc3f6f8a6f5"
+  url "https://github.com/babasbot/batt/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "1cd34c1a75ae7d42016db90410bfb68486255defd767dffc6bac94e5ef023d2e"
   license "MIT"
 
   uses_from_macos "curl"
